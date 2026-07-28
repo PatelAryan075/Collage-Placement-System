@@ -1,0 +1,3 @@
+database/placement.db
+uploads/*
+!uploads/.gitkeep
